@@ -1,0 +1,35 @@
+.top{
+    background-color:  #534836;
+    width: 102%;
+    height: 210px;
+    margin-top: -20px;
+    position:relative;
+    margin-left: -10px;
+ 
+}
+.links{
+    text-decoration: none;
+    width: 99%;
+    height: 30px;
+    background-color:#534836;
+    margin-left: -12px;
+    padding-left: 40px;
+    padding-top: 10px;
+    font-size: large;
+
+
+}
+
+.featured{
+    width: 97%;
+    height: 600px;
+    background-color: #534836;
+    margin-top:510px;
+    margin-left: -10px;
+    font-weight:bold;
+    font-family:Arial,Helvetica,sans-serif;
+    padding-left: 60px;
+    font-size: 20pt;
+    padding-top:2px;
+    color: #E7D8C7;
+}

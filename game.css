@@ -1,0 +1,96 @@
+.model {
+    position: relative;
+    width: 50%;
+  }
+  
+  /* Make the image responsive */
+  .model img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Style the button and place it in the middle of the container/image */
+  .model .btn1 {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+
+  }
+  .model .btn2 {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:transparent;
+    color:transparent;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .model .btn3 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .model .btn4 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+.title{
+    text-align: right;
+    margin-top: -120%;
+    font-family: myFirstFont;
+    font-size: 50pt;
+    line-height : 10px;
+    margin-right: 5%;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(BetterGrade-519DV.ttf);
+  }
+  
+  div {
+    font-family: myFirstFont;
+  }
+
+  @font-face {
+    font-family: spectral;
+    src: url(Spectral-LightItalic.ttf);
+  }
+  
+  div {
+    font-family: spectral;
+  }
+  
